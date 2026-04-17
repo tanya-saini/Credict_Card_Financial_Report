@@ -59,23 +59,23 @@ To build an interactive and data-driven financial dashboard that:
 
 Walkthrough of Key Visuals
 
-🔹 **(Dashboard – Transaction View)**
+### 🔹 **(Dashboard – Transaction View)**
 
-🔹 **KPI Cards (Key Performance Indicator)**
+### 🔹 **KPI Cards (Key Performance Indicator)**
 - Revenue(interest_earned+annual_fess): 10.8M 
 - Transaction Count: 655.7K
 - Total Transaction: 44.5M
 - Clients: 10,108
 
-🔹 **Customer Acquisition Cost (CAC)**
+### 🔹 **Customer Acquisition Cost (CAC)**
 - Blue cards have highest acquisition cost
 - Need to optimize CAC vs returns
  
-🔹 **Revenue by Use Chip**
+### 🔹 **Revenue by Use Chip**
 - Swipe transactions dominate over chip/online
 - Indicates low digital adoption → opportunity for digital push
 
-🔹 **Revenue by Expenditure Type**
+### 🔹 **Revenue by Expenditure Type**
 - Bills, entertainment, and fuel are top contributors
 - Ideal for cashback offers & partnerships
 
