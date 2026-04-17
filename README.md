@@ -24,22 +24,21 @@ This project aims to:
 - Analyze key factors driving delinquency, such as income, utilization ratio, and spending patterns
 - Evaluate customer value and revenue contribution across different card categories
 - Understand customer satisfaction drivers and their relationship with financial behavior
-- Examine spending and transaction trends across time to detect seasonal patterns
 - Segment customers into meaningful groups for targeted marketing and risk mitigation strategies
 
 ## 🔹 Dataset
 
 The dataset consists of two related tables containing detailed information on customer demographics and credit card usage behavior.
 
-- Credit Card Dataset: Includes transaction-level and financial behavior data such as spending (Total_Trans_Amt), transaction volume, credit utilization, credit limits, interest earned, and delinquency status, along with time-based fields (week, quarter, year).
-- Customer Dataset: Contains demographic and profile information including age, gender, income, education level, marital status, job type, and customer satisfaction score.
+- **Credit Card Dataset**: Includes transaction-level and financial behavior data such as spending (Total_Trans_Amt), transaction volume, credit utilization, credit limits, interest earned, and delinquency status, along with time-based fields (week, quarter, year).
+- **Customer Dataset**: Contains demographic and profile information including age, gender, income, education level, marital status, job type, and customer satisfaction score.
 
 ## 🔹 Tools & Technologies
 
-- SQL (MySQL) – Used for data extraction, transformation, aggregation, and segmentation logic
-- Power BI – Built interactive dashboards for visualizing customer behavior, risk, and financial metrics
-- Python (Pandas, NumPy) – Performed data cleaning & preprocessing
-- Git & GitHub – Version control and project documentation
+- **SQL (MySQL)** – Used for data extraction, transformation, aggregation, and segmentation logic
+- **Power BI** – Built interactive dashboards for visualizing customer behavior, risk, and financial metrics
+- **Python (Pandas, NumPy**) – Performed data cleaning & preprocessing
+- **Git & GitHub** – Version control and project documentation
 
 ## 🔹 Features / Highlights
 
@@ -62,24 +61,27 @@ Walkthrough of Key Visuals
 
 🔹 (Dashboard – Transaction View)
 
-🔹 KPIs(Key Performance Indicator)
-Revenue(interest_earned+annual_fess): 10.8M 
-Transaction Count: 655.7K
-Total Transaction: 44.5M
-Clients 
+🔹 KPI Cards (Key Performance Indicator)
+- Revenue(interest_earned+annual_fess): 10.8M 
+- Transaction Count: 655.7K
+- Total Transaction: 44.5M
+- Clients: 10,108
 
-🔹 Revenue by Card Category (Table)
-Breaks down revenue into:
-Transaction revenue
-Annual fees
-Interest earned
-👉 Helps evaluate product performance
-🔹 Customer Acquisition Cost (Bar Chart)
-CAC comparison across card categories
-👉 Supports cost optimization decisions
-🔹 Revenue by Use Chip (Bar Chart)
-Compares revenue by transaction method
-👉 Indicates technology adoption impact
+🔹 Customer Acquisition Cost (CAC)
+- Blue cards have highest acquisition cost
+- Need to optimize CAC vs returns
+ 
+🔹 Revenue by Use Chip
+- Swipe transactions dominate over chip/online
+- Indicates low digital adoption → opportunity for digital push
+
+🔹 Revenue by Expenditure Type
+- Bills, entertainment, and fuel are top contributors
+- Ideal for cashback offers & partnerships
+
+
+
+
 🔹 Revenue by Expenditure Type (Bar Chart)
 Identifies top spending categories (Bills, Fuel, Grocery, etc.)
 👉 Useful for targeted offers & partnerships
