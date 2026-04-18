@@ -8,9 +8,8 @@ _Developed a SQL-based customer segmentation model using transaction behavior, c
 - [Business Problem](#business-problem)
 - [Dataset](#dataset)
 - [Tools & Technologies](#tools--technologies)
-- [Research Questions & Key Findings](#research-questions--key-findings)
+- [Features / Highlights](#Features/Highlights)
 - [Dashboard](#dashboard)
-- [How to Run This Project](#how-to-run-this-project)
 - [Final Recommendations](#final-recommendations)
 
 ## 🔹 Overview
