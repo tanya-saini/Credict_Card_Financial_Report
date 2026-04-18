@@ -49,96 +49,76 @@ Key questions such as:
 - Which card categories and regions generate the most revenue?
 - How do customer behavior and demographics impact spending and satisfaction?
 
-Goal of the Dashboard:
-
-To build an interactive and data-driven financial dashboard that:
+Goal of the Dashboard: _To build an interactive and data-driven financial dashboard that_:
 - Enables analysis of customer behavior, spending, and risk patterns
 - Helps identify high-risk and high-value customer segments
 - Provides insights into revenue drivers and transaction trends
 - Supports decision-making in credit risk management and business strategy
 
-Walkthrough of Key Visuals
 
-### 🔹 **(Dashboard – Transaction View)**
+### 📊 **(Dashboard – Transactions View)**
 
 ### 🔹 **KPI Cards (Key Performance Indicator)**
-- Revenue(interest_earned+annual_fess): 10.8M 
-- Transaction Count: 655.7K
-- Total Transaction: 44.5M
-- Clients: 10,108
+- Revenue(interest_earned+annual_fess) : 10.8M 
+- Transaction Count : 655.7K
+- Total Transaction : 44.5M
+- Clients : 10,108
 
-### 🔹 **Customer Acquisition Cost (CAC)**
+### 🔹 **Customer Acquisition Cost (CAC)**(Bar Chart) 
 - Blue cards have highest acquisition cost
 - Need to optimize CAC vs returns
  
-### 🔹 **Revenue by Use Chip**
+### 🔹 **Revenue by Use Chip**(Bar Chart)
 - Swipe transactions dominate over chip/online
 - Indicates low digital adoption → opportunity for digital push
 
-### 🔹 **Revenue by Expenditure Type**
+### 🔹 **Revenue by Expenditure Type**(Bar Chart)
 - Bills, entertainment, and fuel are top contributors
-- Ideal for cashback offers & partnerships
+- Ideal for targeted cashback offers & partnerships
 
+### 🔹 **Quarterly Revenue & Transactions**(Combo Chart)
+- Tracks revenue and transaction trends across quarters
+- Peak in Q3, slight drop in Q4
+- Shows seasonality → plan campaigns accordingly
 
+  ---
 
+### 📊 **(Dashboard – Customers View)**
 
-🔹 Revenue by Expenditure Type (Bar Chart)
-Identifies top spending categories (Bills, Fuel, Grocery, etc.)
-👉 Useful for targeted offers & partnerships
-🔹 Revenue by Education Level
-Links education with income segments and spending
-👉 Helps refine customer segmentation strategies
-🔹 Quarterly Revenue & Transactions (Combo Chart)
-Tracks revenue and transaction trends across quarters
-👉 Identifies seasonality and growth patterns
-• Business Impact & Insights
-📊 Risk Management
-Identified high-risk segments based on utilization and delinquency
-Enables proactive credit control strategies
-💰 Revenue Optimization
-Highlighted top-performing card categories and customer segments
-Supports targeted marketing and product positioning
-🎯 Customer Segmentation
-Segmented users into high-value, inactive, and high-risk groups
-Enables personalized engagement strategies
-📈 Strategic Decision-Making
-Insights on regional performance, spending behavior, and CAC efficiency
-Helps businesses optimize resource allocation and growth strategies
+### 🔹 **KPI Cards (Key Performance Indicator)**
+- Avg Income : 44.8K
+- Avg Age : 46
+- Customer Acquisition Cost : 972.9K
+- % of High Risk customer : 6.1%
 
-🔹 Key KPIs (Top Section)
-Avg Income: , CAC, Avg Age, High Risk %
-👉 Provide a quick snapshot of customer profile and overall risk level
-🔹 Revenue by Income Group (Area Chart)
-Compares revenue across high, medium, and low income groups
-👉 Helps identify which income segment contributes most to revenue
-🔹 Dependency Analysis (Bar Chart)
-Shows relationship between dependents and spending/revenue
-👉 Useful for understanding household impact on financial behavior
-🔹 Customer Segmentation (Bar Chart)
-Classifies customers into Regular, Inactive, and High-Risk groups
-👉 Core visual for identifying target segments
-🔹 Top 5 Revenue Generating States (Bar Chart)
-Displays highest revenue-contributing regions
-👉 Helps in regional strategy and targeting
-🔹 Satisfaction vs Risk (KPI Cards)
-Compares satisfaction scores between male and female high-risk customers
-👉 Reveals experience gaps across segments
-🔹 Transactions by Gender (Line Chart)
-Tracks transaction trends over time by gender
-👉 Helps identify behavioral differences
-🔹 Expenditure by Age Group (Bar Chart)
-Shows spending distribution across age groups
-👉 Useful for customer profiling and targeting
-🔹 Transaction Count vs CAC (Scatter Plot)
-Analyzes relationship between customer acquisition cost and engagement
-👉 Helps evaluate marketing efficiency
+### 🔹 **Revenue by Income Group**(Ribbon Chart)
+- High-income customers (specially males) contribute the most revenue, but mid-income shows strong volume
+- Focus on high-income for value, mid-income for scale
 
+### 🔹 **Customer Segmentation**(Bar Chart)
+- Majority are regular customers; high-risk segment is small but critical
+- Females constribution is significant as inactive customers ([Total_Trans_Amt] < 10000 && [Total_Trans_Vol] < 50)
+- Opportunity for re-engagement campaigns
 
+### 🔹 **Top 5 Revenue States**(Bar Chart)
+- Revenue is concentrated in a few key tier-1 states (TX, NY, CA)
+- Helps in geo-targeted marketing & expansion strategy
 
+### 🔹 **Avg High Risk CSS**
+- High-risk males have higher satisfaction than females
+- Potential experience gap → improve retention strategy for female segment
 
+### 🔹 **Transactions by Gender** (Line Chart)
+- Males consistently show higher transaction activity throughout the year
+- It helps us to identify dominant user group → tailor engagement strategies
 
+### 🔹 **Expenditure by Age Group**(Bar Chart)
+- Spending peaks in the 40–60 age group, making them the primary revenue drivers,
+  while younger and older segments require targeted engagement to boost activity.
 
-
-
+### 🔹 **Transaction Count vs CAC** (Scatter Chart)
+- No strong linear relationship -> Higher CAC does not not guarantee higher transactions
+- Highlights inefficiency in acquisition spending
+- Evaluates effectiveness of marketing spend, helps identify over-invested vs under-performing segments
 
 
