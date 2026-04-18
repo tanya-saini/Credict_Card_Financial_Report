@@ -107,7 +107,7 @@ Goal of the Dashboard: _To build an interactive and data-driven financial dashbo
 - Spending peaks in the 40–60 age group, making them the primary revenue drivers,
   while younger and older segments require targeted engagement to boost activity.
 
-![Dashboard Customers](https://github.com/tanya-saini/Platos_Pizza_Analysis/blob/main/dashboard%20overview.png)
+![Dashboard Customers](https://github.com/tanya-saini/Credict_Card_Financial_Report/blob/main/CC_Customers.png)
 
 
   ## 🔹 Business Impact & Insights
