@@ -70,7 +70,7 @@ Goal of the Dashboard: _To build an interactive and data-driven financial dashbo
 - Peak in Q3, slight drop in Q4
 - Shows seasonality → plan campaigns accordingly
 
-![Dashboard Transactions](https://github.com/tanya-saini/Platos_Pizza_Analysis/blob/main/dashboard%20overview.png)
+![Dashboard Transactions](https://github.com/tanya-saini/Credict_Card_Financial_Report/blob/main/CC_Transacations.png)
 
   ---
 
