@@ -70,7 +70,8 @@ Goal of the Dashboard: _To build an interactive and data-driven financial dashbo
 - Peak in Q3, slight drop in Q4
 - Shows seasonality → plan campaigns accordingly
 
-Dashbaord :
+![Dashboard Transactions](https://github.com/tanya-saini/Platos_Pizza_Analysis/blob/main/dashboard%20overview.png)
+
   ---
 
 ### 📊 **(Dashboard – Customers View)**
@@ -105,6 +106,9 @@ Dashbaord :
 ### 🔹 **Expenditure by Age Group**(Bar Chart)
 - Spending peaks in the 40–60 age group, making them the primary revenue drivers,
   while younger and older segments require targeted engagement to boost activity.
+
+![Dashboard Customers](https://github.com/tanya-saini/Platos_Pizza_Analysis/blob/main/dashboard%20overview.png)
+
 
   ## 🔹 Business Impact & Insights
 - Identified ~6.1% high-risk segment using SQL-based risk segmentation logic.
