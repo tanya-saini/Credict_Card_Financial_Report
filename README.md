@@ -70,6 +70,7 @@ Goal of the Dashboard: _To build an interactive and data-driven financial dashbo
 - Peak in Q3, slight drop in Q4
 - Shows seasonality → plan campaigns accordingly
 
+Dashbaord :
   ---
 
 ### 📊 **(Dashboard – Customers View)**
@@ -114,3 +115,16 @@ Goal of the Dashboard: _To build an interactive and data-driven financial dashbo
 - Showed that higher CAC does not always mean higher engagement, highlighting acquisition inefficiencies.
 - Revealed top spending categories and quarterly trends to support targeted offers and campaign timing.
   
+## 🔹 Final Recommendations
+- Focus on high-risk customers (~6%) with stricter credit controls
+- Target high-income & 40–60 age group for revenue growth
+- Optimize CAC by focusing on high-engagement segments
+- Promote digital payments (chip/online usage)
+- Re-engage inactive customers through targeted campaigns
+
+## 🔹 Future Scope
+- Develop Customer LTV models
+- Implement recommendation systems for offers
+- Apply time-series forecasting for revenue trends
+- Integrate external data (credit score, economic factors)
+- Enable real-time dashboards
