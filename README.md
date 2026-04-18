@@ -78,7 +78,7 @@ Goal of the Dashboard: _To build an interactive and data-driven financial dashbo
 - Avg Income : 44.8K
 - Avg Age : 46
 - Customer Acquisition Cost : 972.9K
-- % of High Risk customer : 6.1%
+- % of High Risk customer : ~6.1%
 
 ### 🔹 **Revenue by Income Group**(Ribbon Chart)
 - High-income customers (specially males) contribute the most revenue, but mid-income shows strong volume
@@ -105,9 +105,12 @@ Goal of the Dashboard: _To build an interactive and data-driven financial dashbo
 - Spending peaks in the 40–60 age group, making them the primary revenue drivers,
   while younger and older segments require targeted engagement to boost activity.
 
-### 🔹 **Transaction Count vs CAC** (Scatter Chart)
-- No strong linear relationship -> Higher CAC does not not guarantee higher transactions
-- Highlights inefficiency in acquisition spending
-- Evaluates effectiveness of marketing spend, helps identify over-invested vs under-performing segments
-
-
+  ## 🔹 Business Impact & Insights
+- Identified ~6.1% high-risk segment using SQL-based risk segmentation logic.
+- Measured portfolio value at ~57M, with 45M transaction amount and 7.98M interest earned.
+- Between all the states TX, NY & CA is contributing to 68%.
+- Male customers are contributing 31M in revenue, while female customers are pulling in 26M.
+- Blue & Silver credit card together are contributing to 93% of all transactions.
+- Showed that higher CAC does not always mean higher engagement, highlighting acquisition inefficiencies.
+- Revealed top spending categories and quarterly trends to support targeted offers and campaign timing.
+  
