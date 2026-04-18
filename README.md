@@ -2,16 +2,6 @@
 
 _Developed a SQL-based customer segmentation model using transaction behavior, credit utilization, and payment patterns to identify distinct risk groups._
 
-## 📌 Table of Contents
-
-- [Overview](#overview)
-- [Business Problem](#business-problem)
-- [Dataset](#dataset)
-- [Tools & Technologies](#tools--technologies)
-- [Features / Highlights](#Features/Highlights)
-- [Dashboard](#dashboard)
-- [Final Recommendations](#final-recommendations)
-
 ## 🔹 Overview
 
 This project focuses on analyzing credit card customer data to uncover insights into spending behavior, credit utilization, and risk patterns. Using SQL-based data processing and segmentation techniques, customers were grouped into meaningful segments based on their financial behavior and payment patterns.
