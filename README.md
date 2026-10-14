@@ -1,5 +1,5 @@
 # Credict Card Financial Report
-dasg
+
 _Developed a SQL-based customer segmentation model using transaction behavior, credit utilization, and payment patterns to identify distinct risk groups._
 
 ## 🔹 Overview
